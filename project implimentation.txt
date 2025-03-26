@@ -1,0 +1,7 @@
+1.exported Database
+2.in a folder (index.js,package.json,package-lock.json)
+3.all from frontend
+
+for apply all:
+1. create same name of that database then export yours
+2.set everythis as it was
