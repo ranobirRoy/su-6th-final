@@ -1,0 +1,4 @@
+ধাপ ১ : প্রথমে notebook নামে ডাটাবেস খুলে notebook.sql ফাইল Database এ import করতে তবে ।
+ধাপ ২: server ফোলডারে (index.js,package.json,package-lock.json) এগুলো রাখতে হবে । না থাকলে "node install" দিয়ে install করে নিতে হবে ।
+ধাপ ৩: "node index.js" দিয়ে server start করে নিতে হবে ।
+ধাপ ৪: এরপর frontend এর index file open করলে সব প্রোজেক্ট Run হয়ে যাবে ।
